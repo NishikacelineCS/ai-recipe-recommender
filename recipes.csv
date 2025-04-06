@@ -1,0 +1,14 @@
+Recipe,Ingredients,Diet
+Pasta,"Tomato, Garlic, Basil, Olive Oil, Cheese",vegetarian
+Pizza,"Dough, Tomato, Cheese, Olive Oil, Oregano",vegetarian
+Salad,"Lettuce, Tomato, Cucumber, Olive Oil, Vinegar","vegan,gluten-free,dairy-free"
+Sandwich,"Bread, Tomato, Cheese, Butter, Lettuce",vegetarian
+Soup,"Carrot, Tomato, Onion, Garlic, Water","vegan,gluten-free,dairy-free"
+Smoothie,"Banana, Milk, Honey, Yogurt","vegetarian,gluten-free"
+Rice Bowl,"Rice, Chicken, Soy Sauce, Ginger, Garlic","non-vegetarian,dairy-free"
+Tacos,"Tortilla, Chicken, Lettuce, Cheese, Salsa",non-vegetarian
+Curry,"Potato, Tomato, Onion, Garlic, Spices","vegan,gluten-free,dairy-free"
+Pancakes,"Flour, Egg, Milk, Sugar, Butter",vegetarian
+Grilled Chicken,"Chicken, Olive Oil, Lemon, Garlic, Pepper","non-vegetarian,dairy-free"
+Egg Fried Rice,"Fish, Tomato, Onion, Garlic, Spices","non-vegetarian,dairy-free"
+Fish Curry,"Rice, Egg, Soy Sauce, Vegetables",non-vegetarian
